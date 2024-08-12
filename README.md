@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nwabisa Mavuso</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate front-end developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwabisamavuso&label=Profile%20views&color=0e75b6&style=flat" alt="nwabisamavuso" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Online Cannabis Store](https://github.com/NwabisaMavuso/OnlineStore)
 
-- 🌱 I’m currently learning **Django, Node**
+- 🌱 I’m currently learning **Django, Node, Wordpress, Python & JavaScript**
 
 - 👯 I’m looking to collaborate on [Online Portfolio](https://github.com/NwabisaMavuso/Portfolio)
 
