@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nwabisamavuso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nwabisamavuso" height="30" width="40" /></a>
-<a href="https://twitter.com/@iam_banzii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iam_banzii" height="30" width="40" /></a>
+<a href="https://twitter.com/iam_banzii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_banzii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nwabisamavuso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nwabisamavuso" height="30" width="40" /></a>
 <a href="https://codesandbox.com/nwabisamavuso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nwabisamavuso" height="30" width="40" /></a>
 <a href="https://instagram.com/@kaniiaxtro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kaniiaxtro_" height="30" width="40" /></a>
